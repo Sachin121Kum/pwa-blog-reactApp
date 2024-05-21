@@ -13,6 +13,14 @@
   }
 }
 
+.navbar a{
+  color: #fff;
+}
+
+.navbar a:hover{
+  color: #ddd;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
